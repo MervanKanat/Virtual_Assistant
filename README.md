@@ -67,6 +67,4 @@ Virtual_Assistant allows users to interact with the content of multiple PDF docu
 
 Feel free to fork the repository and submit pull requests for improvements or new features.
 
-## License
 
-This project is licensed under the MIT License.
